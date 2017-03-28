@@ -1,0 +1,72 @@
+.welcome {
+	text-align: center;
+	margin: 26px;
+	border-bottom: 2px solid #886d6d;
+	font-color=red;
+	font-weight: bold;
+}
+.welcome h1:hover{
+	background-color: brown;
+	width: 582px;
+}
+
+.welcome h1:active{
+	background-color: black;
+	width: 612px;
+}
+.xx{
+	margin-top: 171px;
+}
+.login{
+	margin-left: 450px;
+	margin-right: 450px;
+	background-image: url("29520952531_e5623d1bb1_o.jpg");
+}
+.form{
+	border-radius: 10px;
+	border: 2px solid black;
+	border-width: 2px;
+	font-size: "50";
+	/* font-weight: bold; */
+	font-color:black;
+}
+
+h3 {
+    align-content: center;
+    margin-left: 145px;
+    /* color: red; */
+    display: initial;
+}
+.pass{
+
+}
+.name_text{
+	border-width: 1px;
+	margin-left: 100px;
+	margin-top: 5px;
+	border: 2px solid;
+}
+.pass_txt{
+	border-width: 1px;
+    margin-left: 100px;
+    margin-top: 5px;
+    border: 2px solid;
+}
+.footer{
+	margin-top: 150px;
+	max-height: 60px;
+	/* border: 1px dotted blue; */
+}
+.footer button{
+	margin-left: 1px;
+	margin-right: 1px;
+	width: 150px;
+	font-color=black;
+}
+.footer button:active{
+	background-color: red;
+}
+.icon a{
+	min-height: 50px;
+	margin-left: 10px;
+}
